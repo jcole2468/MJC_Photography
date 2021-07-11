@@ -10,7 +10,7 @@ import ghost from '../public/Ghost.jpeg'
 
 export default function Home() {
   return (
-    <div className="">
+    <div className="w-screen">
       <Head>
         <title>MJC Photography</title>
         <meta name="description" content="MJC" />
